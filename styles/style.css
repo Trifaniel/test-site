@@ -1,0 +1,53 @@
+html {
+  background-color: #9a9c9e;
+}
+html {
+  font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Open Sans';
+
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  padding: 0 auto;
+  margin: 20px 150px 20px 150px;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+  border: solid black;
+  display: block;
+}
+
+#but_1 {
+  display: block;
+  margin: 0 auto;
+  color: black;
+  background-color: #9a9c9e;
+  padding: 0 auto;
+}
+
+#but_2 {
+  display: block;
+  margin: 0 auto;
+  color: black;
+  background-color: #9a9c9e;
+  padding: 0 auto;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #9fb2dd;
+  padding: 50px 20px 50px 20px;
+  border: 5px solid black;
+  
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
